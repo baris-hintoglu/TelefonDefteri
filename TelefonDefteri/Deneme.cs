@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace TelefonDefteri
 {
+    //Sınıfımızın Adı Denemedir..
     class Deneme
     {
     }
